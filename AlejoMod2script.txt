@@ -1,0 +1,15 @@
+Antonio Alejo Module 2 Script
+
+Script started on 2024-02-21 20:51:58-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;root@DESKTOP-OSP1LVG: /mnt/c/Users/tonya/Downloads root@DESKTOP-OSP1LVG:/mnt/c/Users/tonya/Downloads# cat log.csvedutar -xvzf log.tar.gz
+[?2004l
+log.csv
+^[[A^[[A^[[A            grep education.**.txt log.csv > AlejoMod2.txt
+[?2004h]0;root@DESKTOP-OSP1LVG: /mnt/c/Users/tonya/Downloads root@DESKTOP-OSP1LVG:/mnt/c/Users/tonya/Downloads# grep education.**.txt log.csv > AlejoMod2.txt
+[?2004l
+exit
+[?2004h]0;root@DESKTOP-OSP1LVG: /mnt/c/Users/tonya/Downloads root@DESKTOP-OSP1LVG:/mnt/c/Users/tonya/Downloads# exit
+[?2004l
+exit
+
+Script done on 2024-02-21 20:53:17-07:00 [COMMAND_EXIT_CODE="0"]
